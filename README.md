@@ -1,10 +1,17 @@
 <!-- Banner / Header -->
-<p align="center">
-  <img src="logo.png" alt="Banner" width="20%">
-</p>
+<table>
+<tr>
+<td width="120">
+  <img src="logo.png" width="120">
+</td>
+<td>
+  <h1>👋 Hola, soy <strong>Lenín Emmanuel Suárez Goyes</strong></h1>
+</td>
+</tr>
+</table>
 
 
-# 👋 Hola, soy **Lenín Emmanuel Suárez Goyes**  
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0EF&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola,+Soy+Lenín+Suárez+Goyes;Ingeniero+en+Sistemas+de+Información;Desarrollador+Full+Stack;Apasionado+por+la+Inteligencia+Artificial;Automatización+de+Procesos;Amante+del+Aprendizaje+Continuo;Siempre+creando+soluciones+tecnológicas">
