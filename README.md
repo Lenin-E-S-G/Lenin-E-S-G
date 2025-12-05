@@ -1,10 +1,20 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="TU_LOGO_O_BANNER" alt="Banner" width="100%">
+  <img src="logo.png" alt="Banner" width="20%">
 </p>
 
+
 # 👋 Hola, soy **Lenín Emmanuel Suárez Goyes**  
-### Ingeniero en Sistemas · Desarrollador Full‑Stack · Apasionado por IA & Automatización ⚙️🤖
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0EF&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola,+Soy+Lenín+Suárez+Goyes;Ingeniero+en+Sistemas+de+Información;Desarrollador+Full+Stack;Apasionado+por+la+Inteligencia+Artificial;Automatización+de+Procesos;Amante+del+Aprendizaje+Continuo;Siempre+creando+soluciones+tecnológicas">
+  </a>
+</p>
+
+
+
+<br>
+
 
 Soy un desarrollador versátil con experiencia en **proyectos web, inteligencia artificial, automatización e integración de sistemas**. Busco crear soluciones que aporten valor real y que impulsen procesos inteligentes.
 
